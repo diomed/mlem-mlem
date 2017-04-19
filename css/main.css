@@ -1712,7 +1712,7 @@ textarea:focus {
       margin: 0 auto 15px; } }
 
 .prices__item--accent--02 {
-  margin: 0 50px;
+  margin: 20px 40px;
   background-color: white;
   -webkit-box-shadow: 5px 8.7px 40px rgba(99, 117, 138, 0.3);
   -moz-box-shadow: 5px 8.7px 40px rgba(99, 117, 138, 0.3);
